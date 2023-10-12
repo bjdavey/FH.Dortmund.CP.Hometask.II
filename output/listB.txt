@@ -1,0 +1,1 @@
+Id: 5, Make: makeTest5, Model: modelTest5, Year Of Manufacture: 1995, Color: colorTest5, Price: 5500.0, Registration Number: t5

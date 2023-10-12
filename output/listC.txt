@@ -1,0 +1,1 @@
+Id: 11, Make: makeTest11, Model: modelTest11, Year Of Manufacture: 2001, Color: colorTest11, Price: 6100.0, Registration Number: t11

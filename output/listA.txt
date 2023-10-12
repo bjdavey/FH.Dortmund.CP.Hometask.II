@@ -1,0 +1,1 @@
+Id: 9, Make: makeTest9, Model: modelTest9, Year Of Manufacture: 1999, Color: colorTest9, Price: 5900.0, Registration Number: t9
